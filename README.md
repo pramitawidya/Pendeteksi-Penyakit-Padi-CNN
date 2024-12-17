@@ -22,8 +22,8 @@ Dataset yang digunakan terdiri dari gambar daun padi dengan kategori:
 3. Penyakit Hawar Daun Bakteri
 
 ## Teknologi yang Digunakan
-Bahasa Pemrograman: Python
-Framework Deep Learning: TensorFlow/Keras
-Framework Web: Flask
-Perpustakaan Tambahan: OpenCV, NumPy, Matplotlib
-Jupyter Notebook: Untuk pengembangan dan eksplorasi model
+- Bahasa Pemrograman: Python
+- Framework Deep Learning: TensorFlow/Keras
+- Framework Web: Flask
+- Perpustakaan Tambahan: OpenCV, NumPy, Matplotlib
+- Jupyter Notebook: Untuk pengembangan dan eksplorasi model
