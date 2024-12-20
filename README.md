@@ -29,7 +29,7 @@ Dataset yang digunakan terdiri dari gambar daun padi dengan kategori:
 - Jupyter Notebook: Untuk pengembangan dan eksplorasi model
 
 
-<h2 align="center"> TEAM ADVANCED AI </h2>
+## TEAM ADVANCED AI
 1. Didik Cahyadi - Design Researcher + Scrum Master - UNIVERSITAS PAPUA  
 2. Marsella Iriana Mamusung - Data Engineer - UNIVERSITAS PAPUA  
 3. Nur Rahmi - ML Engineer - UNIVERSITAS PAPUA  
