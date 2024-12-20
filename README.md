@@ -30,8 +30,8 @@ Dataset yang digunakan terdiri dari gambar daun padi dengan kategori:
 
 
 <h2 align="center"> TEAM ADVANCED AI </h2>
- 1. Didik Cahyadi -  Design researcher + Scrum Master - UNIVERSITAS PAPUA
- 2. Marsella Iriana Mamusung - Data engineer - UNIVERSITAS PAPUA
- 3. Nur Rahmi - ML engineer - UNIVERSITAS PAPUA
- 4. Iftinan Mardhiyyah - ML engineer - UNIVERSITAS PAPUA
- 5. Pramita Widya Ningrum - ML ops - UNIVERSITAS PAPUA
+1. Didik Cahyadi -  Design researcher + Scrum Master - UNIVERSITAS PAPUA
+2. Marsella Iriana Mamusung - Data engineer - UNIVERSITAS PAPUA
+3. Nur Rahmi - ML engineer - UNIVERSITAS PAPUA
+4. Iftinan Mardhiyyah - ML engineer - UNIVERSITAS PAPUA
+5. Pramita Widya Ningrum - ML ops - UNIVERSITAS PAPUA
